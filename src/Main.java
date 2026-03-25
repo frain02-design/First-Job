@@ -5,5 +5,5 @@ void main() {
     // to see how IntelliJ IDEA suggests fixing it.
     IO.println(String.format("Hello and welcome!"));
 
-    System.out.println("TFT > Summoner's Rift");
+    System.out.println("TFT > Summoner's Rift ");
 }
