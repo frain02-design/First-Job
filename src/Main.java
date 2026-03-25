@@ -6,4 +6,5 @@ void main() {
     IO.println(String.format("Hello and welcome!"));
 
     System.out.println("TFT > Summoner's Rift ");
+    System.out.println("Formula e = Formula 1 2026");
 }
